@@ -1,0 +1,54 @@
+body {
+	background-image: url("https://pbs.twimg.com/media/CgZ61-CVIAEVXu7.jpg");
+	background-size: cover;
+	background-position: center;
+	height: 35vh;
+}
+.div1 {
+	width: 1500px;
+	height: 60px; 
+	padding: 10px 50px 10px 500px;
+    border: 1px solid red;
+    box-sizing: border-box;
+}
+.active1 {
+	background: #66FFCC;
+	padding: 50px 50px 50px 50px;
+	position: absolute;
+	transform: translate(50%,150%);
+	color: white;
+	margin: 0 auto 0 auto;
+	text-transform: uppercase;
+}
+.active2 {
+	background: #66FFFF;
+	padding: 50px 120px 50px 120px;
+	position: absolute;
+	transform: translate(240%,150%);
+	color: white;
+	margin: 0 auto 0 auto;
+	text-transform: uppercase;
+}
+.active3 {
+	background: #FFFFCC;
+	padding: 50px 100px 50px 100px;
+	position: absolute;
+	transform: translate(50%,300%);
+	color: black;
+	margin: 0 auto 0 auto;
+	text-transform: uppercase;
+}
+.active4 {
+	background: #FFFFFF;
+	padding: 50px 120px 50px 120px;
+	position: absolute;
+	transform: translate(230%,300%);
+	color: black;
+	margin: 0 auto 0 auto;
+	text-transform: uppercase;
+}
+.deepthi{
+	background-image: url("pic.jpg");
+	width: auto;
+	height:auto;
+}
