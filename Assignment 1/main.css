@@ -8,7 +8,6 @@ body {
 	width: 1500px;
 	height: 60px; 
 	padding: 10px 50px 10px 500px;
-    border: 1px solid red;
     box-sizing: border-box;
 }
 .active1 {
